@@ -1,3 +1,3 @@
 # Math
 
-  [google]: http://google.com/        "Google"
+  [google]: （http://google.com/）        "Google"
