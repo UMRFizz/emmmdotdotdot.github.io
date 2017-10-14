@@ -1,2 +1,2 @@
 # Math
-[google]:(http://google.com/) "Google"
+This is [baidu](http://www.baidu.com/ "度娘")
