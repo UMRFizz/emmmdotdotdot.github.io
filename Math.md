@@ -1,2 +1,3 @@
 # Math
-This is [baidu](http://www.baidu.com/ "度娘")
+
+[线段与矩形相交判断](http://emmmdotdotdot.github.io/LineIntersectRect "线段与矩形相交判断")
