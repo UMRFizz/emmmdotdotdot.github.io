@@ -1,3 +1,3 @@
 # Algorithm
 
-### [A*寻路算法](https://emmmdotdotdot.github.io/A*Search)
+### [AStarSearch](https://emmmdotdotdot.github.io/A*Search)
